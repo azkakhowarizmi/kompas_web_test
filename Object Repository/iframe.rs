@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>715ee003-56c5-4dd2-8fbf-0a011f4f0801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='credential_picker_container']/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Dialog Login dengan Google&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>25c0425e-3950-4e65-9d6d-0c89259d9c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://accounts.google.com/gsi/iframe/select?client_id=776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com&amp;auto_select=true&amp;ux_mode=popup&amp;ui_mode=card&amp;as=8Q4OotdavvcUKQokm%2FFYlA&amp;is_itp=true&amp;channel_id=0dca6b3dc017cd7070d465a2d712a7f511528347a7eb92e5876792201dd32423&amp;origin=https%3A%2F%2Fwww.kompas.com</value>
+      <webElementGuid>e48dd433-40a1-4800-bfa3-64377dce7f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dialog Login dengan Google</value>
+      <webElementGuid>cae6ba5a-bc5b-4493-b422-20ddc9dabe52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;credential_picker_container&quot;)/iframe[1]</value>
+      <webElementGuid>c7a69c4b-d9d1-4fef-bd7e-d68e0b39ad80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='credential_picker_container']/iframe</value>
+      <webElementGuid>f3eb4a7d-637b-47c7-a7dd-77ffe81b19b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/iframe</value>
+      <webElementGuid>9b33e265-a45e-4cb0-bc95-1920e76e13a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://accounts.google.com/gsi/iframe/select?client_id=776828813358-infk4sje3q07sa8mg8n6lq1mk2pdkkua.apps.googleusercontent.com&amp;auto_select=true&amp;ux_mode=popup&amp;ui_mode=card&amp;as=8Q4OotdavvcUKQokm%2FFYlA&amp;is_itp=true&amp;channel_id=0dca6b3dc017cd7070d465a2d712a7f511528347a7eb92e5876792201dd32423&amp;origin=https%3A%2F%2Fwww.kompas.com' and @title = 'Dialog Login dengan Google']</value>
+      <webElementGuid>cec76c31-f6ef-4622-922d-a0c3f14aaa1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close login google (button)</name>
+   <tag></tag>
+   <elementGuidId>bb80799e-8164-4e02-a6a7-ed28bf8e5ac9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.Bz112c.Bz112c-r9oPif</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7a12a944-896b-4a13-b420-e67ca590aa3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Bz112c Bz112c-r9oPif</value>
+      <webElementGuid>109a1101-e2c5-4404-9ed7-06bb28a5973d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>https://www.w3.org/2000/svg</value>
+      <webElementGuid>e7cdd9f8-b0f8-48e5-8d4f-4ba2f61d881b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>09d3ebe3-9e33-41cd-b68c-6fb3526dd073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#5f6368</value>
+      <webElementGuid>00b8ef39-e422-481a-9ed7-674ab51c2efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/svg[@class=&quot;Bz112c Bz112c-r9oPif&quot;]</value>
+      <webElementGuid>5a79ad4c-dd7f-4e03-b70e-16fc4aa39da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Object Button/Page_Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com/iframe</value>
+      <webElementGuid>c1903f00-6ea1-4359-b7a4-815ceec31dea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

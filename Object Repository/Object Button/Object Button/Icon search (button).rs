@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon search (button)</name>
+   <tag></tag>
+   <elementGuidId>35bd6589-e901-44e0-b654-fad0c66a14fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d1dd9c5c-4474-45a6-bce8-cda97dfd01bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__button form__button__header</value>
+      <webElementGuid>635f0ec1-637a-4c44-8e04-b9b69b1444df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e9ab0249-ebdb-42a5-ad11-de5f5ec3576f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5ff5cd4a-af72-49ec-a8db-d221eb6d7fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransitions&quot;]/body[@class=&quot;revampV2&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;header header--sumpah-pemuda clearfix&quot;]/div[@class=&quot;row clearfix header__wrap&quot;]/div[@class=&quot;container clearfix header__row&quot;]/div[@class=&quot;row col-offset-fluid clearfix&quot;]/div[@class=&quot;col-bs10-5 clearfix&quot;]/form[@class=&quot;search search--header col-bs12-8 col-offset-0&quot;]/input[@class=&quot;form__button form__button__header&quot;]</value>
+      <webElementGuid>001ddf4b-cd57-4e1e-a150-99896a6f0a68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='submit']</value>
+      <webElementGuid>9a8f3286-7e11-4d1a-9ec1-b98b95c75cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>35b16dca-7f1f-430b-8fb4-ce83ccdcba00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'submit']</value>
+      <webElementGuid>3b7ab855-ad10-404a-a2a4-a1f076afd55b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
